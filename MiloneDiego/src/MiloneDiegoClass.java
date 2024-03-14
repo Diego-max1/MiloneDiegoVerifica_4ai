@@ -1,6 +1,8 @@
+
 /**
  * 
- * @author Milone Diego version 0.0
+ * @author Milone Diego 
+ * version 1.0
  */
 public class MiloneDiegoClass {
 	/**
